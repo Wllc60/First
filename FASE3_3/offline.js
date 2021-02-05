@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1612403840,
+	"version": 1612562789,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -90,6 +90,7 @@
 		"images/nivelproducaofogueiraf3-sheet0.png",
 		"images/gordura1f3-sheet0.png",
 		"images/paredefogueiraf3-sheet0.png",
+		"images/gordura2f3-sheet0.png",
 		"images/poçaf3-sheet0.png",
 		"images/fundo_oscilador_forcaf3-sheet0.png",
 		"images/gordura5f3-sheet0.png",
@@ -111,6 +112,7 @@
 		"images/pedaco_pedra_3-sheet0.png",
 		"images/silhueta_4_-sheet0.png",
 		"images/pedaco_pedra_4-sheet0.png",
+		"images/txtcontagemf3.png",
 		"images/queimagordurasf3-sheet0.png",
 		"images/botao_configuracoes-sheet0.png",
 		"images/pedraf3-sheet0.png",
